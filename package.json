@@ -1,0 +1,9 @@
+{
+	"name": "pulse-chat-client-customer",
+	"description": "Chat client for use by customers",
+	"author": "Robin Barnes <robinmbarnes@gmail.com>",
+	"dependencies": {
+		"socket.io-client": ">= 1.0.*"
+	}
+}
+
